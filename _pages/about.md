@@ -19,6 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am completing a Ph.D. in **Aerospace Engineering** at Universidad Politécnica de Madrid (Spain), inside the Computational Mechanics group. My main research topics are **topology optimization** algorithms and **data-driven** techniques, using **surrogate models** to speed up expensive evaluations in physical and engineering applications. During my last year of my Ph.D., I did a half-a-year research stay at the [CSMLab](https://www.csmlab.org/), led by Prof. Fehmi Cirak at **University of Cambridge** (UK), and another half-a-year research stay at the PIMM, led by Prof. Paco Chinesta at **École nationale supérieure d'Arts et Métiers** (France).
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
