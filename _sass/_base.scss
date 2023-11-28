@@ -178,10 +178,12 @@ blockquote {
 
 .profile.float-right {
   margin-left: 1rem;
+  text-align: justify;
 }
 
 .profile.float-left {
   margin-right: 1rem;
+  text-align: justify;
 }
 
 @media (min-width: 576px) {
