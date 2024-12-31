@@ -8,7 +8,7 @@ middle_name:
 last_name: Ben-Yelun
 email: i.binsenser@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to Ismael Ben-Yelun's Digital Hub. Explore computational mechanics approaches, browse my portfolio, and connect with me for a journey of creativity and collaboration.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
